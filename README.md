@@ -15,7 +15,7 @@ These projects reflect my proficiency in data analysis, visualization, and autom
     - **Dashboard link:** https://app.powerbi.com/links/zRYGOJzCnH?ctid=0e886695-3d17-41a8-8544-135b0a92a47c&pbi_source=linkShare
     - **Skills Showcased:** PowerBI, MS Excel, Power Query, data transformation from MS Excel, diverse chart types (bar, decomposition trees, donut), and interactive insights.
 
-- **MyFile.py**
+- **Automation Project.py**
     - *Excel Analytics Automation:* Developed to streamline processing of large Excel files (>100k lines) using pandas and Python. Computes revenue, quantity, and average price per product per store. Automates report generation and email delivery using Outlook. Developed in PyCharm.
     - **Skills Showcased:** Python, web automation, MS Excel, pandas, Outlook, and PyCharm.
     - *Excel file link:* https://docs.google.com/spreadsheets/d/1U7va5L1tqQdn6Zrjox4BSR0t2AwU_sri/edit?usp=sharing&ouid=118445211326930178457&rtpof=true&sd=true
