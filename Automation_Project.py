@@ -34,7 +34,7 @@ mail.HTMLBody = f'''
 <p>Follow the sales report for each store.</p>
 
 <p>Revenue:</p>
-{revenue.to_html(formatters={'Valor Final': '${:,.2f}'.format})}
+{revenue.to_html(formatters={'Revenue': '${:,.2f}'.format})}
 
 <p>Quantity Sold:</p>
 {quantity.to_html()}
