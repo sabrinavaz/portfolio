@@ -21,10 +21,10 @@ These projects reflect my proficiency in data analysis, visualization, and autom
     - **Skills showcased:** Python, web automation, MS Excel, pandas, Outlook, and PyCharm.
     - **Excel file link:** https://docs.google.com/spreadsheets/d/1U7va5L1tqQdn6Zrjox4BSR0t2AwU_sri/edit?usp=sharing&ouid=118445211326930178457&rtpof=true&sd=true
       
-- **Python Analytics Code.ipynb**
+- **Python_Analytics_Code.ipynb**
     - **Project link:** https://colab.research.google.com/drive/1DL0amo9y_4FadM0FqwBH9cx0P6b0c-jt?usp=sharing
     - Analyzed a CSV file with over 800,000 rows of data for a Python project, exploring into customer behavior to uncover insights, particularly focusing on understanding the primary reasons for customer churn and effective strategies to reduce it.
 
-- **Artificial_Intelligence.ipynb (Python Artificial Intelligence Code)**
+- **Python_Artificial_Intelligence_Code.ipynb**
     - **Project link:** https://colab.research.google.com/drive/17gK_8jMXT1RcRMQccR23WXkyCdhQRYJg?usp=sharing
     - Python project focused on utilizing AI (pandas, sklearn, …) to predict credit scores, aiming to analyze bank customers' data and automatically determine their creditworthiness as either Poor, Standard, or Good.
